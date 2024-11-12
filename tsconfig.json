@@ -1,0 +1,16 @@
+{
+   "compilerOptions": {
+      /* Language and Environment */
+      "target": "ES2016",
+
+      /* Modules */
+      "module": "commonjs",
+      "outDir": "./dist",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+
+      /* Type Checking */
+      "strict": true,
+      "skipLibCheck": true
+   }
+}
